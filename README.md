@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Viktor, also known as Omntns
 - 👀 I’m interested in front-end and mobile development.
-- 🌱 I’m currently learning Flutter framework.
+- 🌱 I’m currently learning Vue framework.
 - 📫 You are always free to contact me by my email yu.viktor31@gmail.com
 
 <!---
